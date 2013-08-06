@@ -1,0 +1,153 @@
+/* Desktop */
+@media only screen and (min-width : 1025px) { /*Screens that have atleast 1025px wide space */
+	body {
+		
+	}
+	
+	.wrapper {
+	
+		
+	}
+	
+	.top {
+		
+	}
+	
+	.top h1 {
+		
+	}
+	
+	
+	.left {
+	 
+	}
+	
+	.left img {
+	
+	}
+	
+	
+	.right {
+		
+	}
+	
+	.right p {
+		
+	}
+	
+	
+	.note {
+	
+	}
+	
+	
+	.footer {
+		
+	}
+}
+
+
+/* Tablet */
+@media only screen and (max-width : 1024px) { /*Screens with max width of 1024px i.e iPad */
+	body {
+		
+	}
+	
+	.wrapper {
+		
+		
+	}
+	
+	.top {
+		
+	}
+	
+	.top h1 {
+		
+	}
+	
+	
+	.left {
+	 
+	 	
+	}
+	
+	.left img {
+		
+	}
+	
+	
+	.right {
+	
+	}
+	
+	.right p {
+		
+	}
+	
+	
+	.note {
+	
+	}
+	
+	
+	.footer {
+		
+	}
+}
+
+
+
+/* Mobile */
+@media only screen and (max-width : 480px) { /*Screens with max width 480px i.e. iPhone */
+
+	body {
+		
+	}
+	
+	a {
+	
+	}
+	
+	.wrapper {
+	
+		
+	}
+	
+	.top {
+	
+	}
+	
+	.top h1 {
+		
+	}
+	
+	
+	.left {
+	
+	}
+	
+	.left img {
+
+	}
+	
+	
+	.right {
+		
+	}
+	
+	.right p {
+		
+	}
+	
+	
+	.note {
+
+	}
+	
+	
+	.footer {
+		
+	}
+
+}
